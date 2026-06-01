@@ -5,7 +5,7 @@ from google import genai
 from google.genai import types
 
 # ⚠️ ВСТАВТЕ СВІЙ НОВИЙ КЛЮЧ СЮДИ (Він має починатися з AIzaSy...)
-os.environ["GEMINI_API_KEY"] = "тут має бути твій ключ API від Gemini"
+os.environ["GEMINI_API_KEY"] = "AQ.Ab8RN6K48QNezbf74Dm-cd2Hj9-ShNZtuT0GpBR5d9B-pRwAdA"
 
 # ==========================================
 # 1. ООП ЧАСТИНА (Класи страв та Кукбук)
